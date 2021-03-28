@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DevinMonster
+- 👋 Hi, I’m @Devin
 - 👀 I’m interested in algorithm
 - 🌱 I’m currently learning chaben
 - 💞️ I’m looking to collaborate on nope
